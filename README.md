@@ -27,16 +27,16 @@ The application provides a centralized and user-friendly interface for accessing
 ## 📸 Screens
 
 ### Home
-![Home Screen](screenshots/home.png)
+![Home Screen](Screenshots/home.png)
 
 ### Book Appointment
-![Book Appointment](screenshots/appointments.png)
+![Book Appointment](Screenshots/appointments.png)
 
 ### Lab Results
-![Lab Results](screenshots/lab-results.png)
+![Lab Results](Screenshots/lab-results.png)
 
 ### Health Record
-![Health Record](screenshots/health-record.png)
+![Health Record](Screenshots/health-record.png)
 
 ## 🏆 Achievement
 
